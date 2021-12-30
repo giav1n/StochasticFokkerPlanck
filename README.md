@@ -1,6 +1,6 @@
 # StochasticFokkerPlanck
-Stochastic Fokker Planck integrator for population of finite size spiking neural network
-
+Spiking neural network can be studied using mean-field theory in the contst of population density approach.
+The distribution of membrane potential $p(v)$ 
 
 ### Requuired modules
 The scripts run on  Python 3.x and require the following moudles
