@@ -7,7 +7,7 @@ https://github.com/neuromethods/fokker-planck-based-spike-rate-models
 With the necessary modification to include finite size effect.
 Markovian embending of the noise is also implemented.
 
-For reference to the theory behinf it:
+For reference to the theory:
 
 ### Requuired modules
 The scripts run on  Python 3.x and require the following moudles
